@@ -1,5 +1,5 @@
 # visualising_Syrian_flow
-This is a complementary repository to visualise the synthetic and empirical trends and maps of Syrian refugee movements.
+This is a complementary repository to visualise the synthetic and empirical trends and maps of Syrian refugee movements. All of the figures in this paper as well as those in my thesis are plotted using the codes in the folder 'scripts' or variations of them.
 ***
 ## Authors
 
