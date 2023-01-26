@@ -31,8 +31,9 @@ def calc_d_rate():
     fc = []
     # for fn in ["destination-social-jordan.csv", "destination-social-scenario0.csv" ]:
     # for fn in ["social-tu-jo.csv", "destination-social-scenario0.csv" ]:
-    for fn in ["camp_up_trip_9.csv", "social-leb-tu.csv" ]:
+    # for fn in ["camp_up_trip_9.csv", "social-leb-tu.csv" ]:
     # for fn in ["social-conflict-shift-leb-tu-2.csv", "social-leb-tu.csv" ]:
+    for fn in ["destination-social-iraq.csv", "destination-social-scenario0.csv" ]:
         sim = []
         with open(fn) as f2:
             myf2 = csv.reader(f2,delimiter=',')
