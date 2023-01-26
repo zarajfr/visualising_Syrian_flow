@@ -26,7 +26,7 @@ The project uses Python and the source code should run on any standard operating
 ## scripts
   - `map_destination_flow.py`
     - A module with the core functions to visualise map of destination flow
-    ![Change of inflows as a result of border closure](/map_leb_jo_social.png, width = 10)
+    ![Change of inflows as a result of border closure](/map_leb_jo_social.png, width = '10')
   - `destination-multi-data.py`
     - A module with the core functions to visualise simulated trends of destination flow against observed data
   - `correlogram.py`
