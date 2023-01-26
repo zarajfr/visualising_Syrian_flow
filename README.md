@@ -23,11 +23,15 @@ The project uses Python and the source code should run on any standard operating
 
 # Content of the repository
 
-## Scripts
+## scripts
   - `map_destination_flow.py`
     - A module with the core functions to visualise map of destination flow
-  - `trend_destination_flow.py`
-    - A module with the core functions to visualise trends of destination flow
+  - `destination-multi-data.py`
+    - A module with the core functions to visualise simulated trends of destination flow against observed data
+  - `correlogram.py`
+    - A module with the core function to visualise correlations between changes of inflow corresponding to each pair of destinations
+  - `summary.py`
+    - A module with the core function to visualise summary of results from border closure experiments
 
 ## Directories
 
